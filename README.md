@@ -38,7 +38,7 @@ The Tableau dashboard combines the visualisations to provide an overview of EV m
 
 View the interactive dashboard:
 
-"EV Market Analysis Dashboard – Tableau Public" (https://public.tableau.com/app/profile/swati.jain8829/viz/Book1_17935305808630/EVMarketAnalysisDashboard?publish=yes)
+"EV Market Analysis Dashboard – Tableau Public" https://public.tableau.com/views/EVMarketAnalysisstory1/EVMarketAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 📂 Project Files
 
